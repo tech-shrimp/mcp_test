@@ -1,1 +1,61 @@
-请替换此处为从maps_weather获取的实际天气数据
+{
+  "city": "青岛市",
+  "forecasts": [
+    {
+      "date": "2025-04-11",
+      "week": "5",
+      "dayweather": "多云",
+      "nightweather": "小雨",
+      "daytemp": "14",
+      "nighttemp": "9",
+      "daywind": "南",
+      "nightwind": "南",
+      "daypower": "4",
+      "nightpower": "4",
+      "daytemp_float": "14.0",
+      "nighttemp_float": "9.0"
+    },
+    {
+      "date": "2025-04-12",
+      "week": "6",
+      "dayweather": "小雨",
+      "nightweather": "晴",
+      "daytemp": "16",
+      "nighttemp": "9",
+      "daywind": "西北",
+      "nightwind": "西北",
+      "daypower": "4",
+      "nightpower": "4",
+      "daytemp_float": "16.0",
+      "nighttemp_float": "9.0"
+    },
+    {
+      "date": "2025-04-13",
+      "week": "7",
+      "dayweather": "晴",
+      "nightweather": "多云",
+      "daytemp": "14",
+      "nighttemp": "9",
+      "daywind": "西",
+      "nightwind": "西",
+      "daypower": "5",
+      "nightpower": "5",
+      "daytemp_float": "14.0",
+      "nighttemp_float": "9.0"
+    },
+    {
+      "date": "2025-04-14",
+      "week": "1",
+      "dayweather": "多云",
+      "nightweather": "晴",
+      "daytemp": "15",
+      "nighttemp": "11",
+      "daywind": "西北",
+      "nightwind": "西北",
+      "daypower": "4",
+      "nightpower": "4",
+      "daytemp_float": "15.0",
+      "nighttemp_float": "11.0"
+    }
+  ]
+}
